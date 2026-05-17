@@ -124,7 +124,7 @@ export const SongProvider = ({children} : SongProviderProps) => {
         }finally{
             setLoading(false)
         }
-    })
+    },[])
 
     useEffect(()=>{
         fetchSongs()
