@@ -1,3 +1,7 @@
+
+working website link hosted on AWS = "http://56.228.32.50:3000/" 
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
